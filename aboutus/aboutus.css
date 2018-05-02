@@ -1,0 +1,15 @@
+h2{
+    text-align: center;
+    margin-top: 100px;
+}
+.team{
+    text-align: center;
+    margin: 15px;
+}
+h4{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.ccards{
+    display: none;
+}
