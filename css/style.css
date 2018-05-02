@@ -1,0 +1,112 @@
+body{
+    background:url(Zinc.jpg) no-repeat center center fixed
+}
+.slogan{padding-right: .5rem;
+    padding-left: .5rem;
+display: block;
+    padding: .5rem 1rem;}
+.cont{    margin: 20px;
+    float: right;}
+.lm:link
+{
+ text-decoration:none;
+    text-transform:uppercase;
+    font-size: 14pt;
+    font-family: cursive;
+    color: #f7f7f7;
+    
+}
+.lm:hover
+{
+  text-decoration: underline;
+    color: brown;
+}
+.header
+{
+ background-size: cover;
+    height: 300px;
+    text-align: center;
+}
+.header h2
+{
+  color: aliceblue;
+    font-size: 48pt;
+    font-family: fantasy;
+    margin-left: 400px;
+    
+  
+}
+.rr{
+    border:2px solid cornflowerblue;
+    height:500px;
+    border-radius:20px;
+    color:;
+}
+#pp{
+    
+}
+.header h3
+{
+   color:aliceblue;
+    font-size: 18pt;
+    font-family: fantasy;
+    top:140px;
+        margin-left:  440px;
+    text-align: justify;
+
+   
+}
+.header a
+{position: absolute;
+    top:250px;
+    margin: 1px;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 10px;
+    background-color: #cbd2e0;
+    margin-left: 100px;
+}
+/*.video{background-color:#404B69;}*/
+.footer__content__nav{
+    
+    
+}
+.sp{background-color: #fffffff2;
+    /* width: 30%; */
+    padding: 4%;
+    margin: 20%;
+    border: 10px solid #de0f0f00;
+    border-radius: 31px;}
+video{
+    border:2px solid cornflowerblue;
+    border-radius:20px;
+    padding-top:15px;
+    padding-bottom:15px;
+}
+#gg{
+    border:10px solid cornflowerblue;
+    border-radius: 20px;
+}
+/*
+#qq {
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: bisque;
+    width: 100%;
+    text-align: center;
+} */
+.logo {    width: 100px;
+    height: 90px;}
+.desc:link {
+    background-color: #180e3e30;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display:table;
+    margin-right: 10px;
+}
+.navbar-expand-lg{
+    background-color: #f7f7f752;
+}
