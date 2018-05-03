@@ -1,0 +1,31 @@
+#ft {
+/*    background-color: darkgrey;*/
+    border: 2px solid DeepSkyBlue;
+    border-radius: 10px;
+    padding:15px;
+    color:
+}
+/*
+form {
+    background:url(combine.jpg) no-repeat center center fixed ;
+    background-size:cover;
+}
+*/
+label{
+    color: black;
+     
+}
+iframe{
+    text-align: center;
+}
+.mina{
+   height:200px 
+}
+
+body{
+    background:url(HoneyDew.jpg) no-repeat center center fixed;
+}
+#panel {
+    padding: 50px;
+    display: none;
+}
